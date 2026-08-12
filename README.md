@@ -51,14 +51,15 @@ ML assignments: classification, neural networks, ensemble methods, clustering, a
 | **Data Mining Ethics** | Consent + anonymization + encryption non-negotiable |
 
 ---
-data-mining-portfolio/
-├── README.md                          
+
+Practical-data-mining-portfolio/
+├── README.md
+├── ethics-presentation.pdf
 ├── assignment-1-report.pdf
 ├── assignment-2-report.pdf
-├── ethics-presentation.pdf
-├── A1_Dataset 
+├── A1_Dataset
 └── A2_Dataset
-
+    
 ---
 
 ## 🛠 Technologies
