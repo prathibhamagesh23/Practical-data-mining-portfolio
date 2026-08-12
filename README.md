@@ -52,8 +52,6 @@ ML assignments: classification, neural networks, ensemble methods, clustering, a
 
 ---
 
-Practical-data-mining-portfolio
-
 data-mining-portfolio/
 ├── README.md
 ├── assignment-1-report.pdf
@@ -61,6 +59,7 @@ data-mining-portfolio/
 ├── ethics-presentation.pdf
 ├── A1 Dataset 
 └── A2 Dataset
+
 ---
 
 ## 🛠 Technologies
